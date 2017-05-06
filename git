@@ -1,1 +1,3 @@
-GitHub
+Public function index(){
+echo "learn how to use Github"
+}
